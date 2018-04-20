@@ -1,6 +1,9 @@
 # Firstapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4. This a my new hand on experiment with git incremental project development not yet done by me.
+Till now no idea for what this project going to be. 
+
+Hope something pops up soon. I will try to fully comment this project as much as possible.
 
 ## Development server
 
